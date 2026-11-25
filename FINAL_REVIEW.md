@@ -1,0 +1,1 @@
+Static review completed; browser navigation blocked. Existing editorial imagery retained; no new AI imagery generated. Mechanical copy cleanup applied, not full manual proofreading. Customs and other factual claims require verification. Staging noindex retained intentionally. Test real enquiries and remove noindex only when switching domain.

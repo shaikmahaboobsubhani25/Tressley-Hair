@@ -1,0 +1,10 @@
+{
+  "pages": 43,
+  "blogs": 27,
+  "missing_local_references": [],
+  "metadata_issues": [],
+  "inline_scripts_checked": 51,
+  "script_errors": 0,
+  "catalogue_price_pairs_verified": 30,
+  "browser_test": "Blocked by browser environment; no successful visual or end-to-end tests."
+}
